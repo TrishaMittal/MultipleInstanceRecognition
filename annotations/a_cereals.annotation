@@ -1,0 +1,622 @@
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/100.jpg
+
+object: 1
+bbox: 8,836,848,1444
+item: 98
+
+object: 2
+bbox: 908,772,1144,1596
+item: 98
+
+object: 3
+bbox: 2160,792,1104,1636
+item: 99
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/103.jpg
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/104.jpg
+
+object: 6
+bbox: 296,1104,800,1332
+item: 95
+
+object: 7
+bbox: 1180,1004,1040,1436
+item: 95
+
+object: 8
+bbox: 2084,960,1180,1516
+item: 95
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/105.jpg
+
+object: 9
+bbox: 200,340,820,1136
+item: 95
+
+object: 10
+bbox: 260,1992,1012,1264
+item: 98
+
+object: 11
+bbox: 1036,156,1088,1288
+item: 135
+
+object: 12
+bbox: 1236,1940,1216,1320
+item: 98
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/107.jpg
+
+object: 13
+bbox: 216,124,816,920
+item: 137
+
+object: 14
+bbox: 1016,0,824,960
+item: 138
+
+object: 15
+bbox: 0,1284,1064,1692
+item: 87
+
+object: 16
+bbox: 1040,1268,1196,1696
+item: 87
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/108.jpg
+
+object: 17
+bbox: 592,12,764,968
+item: 138
+
+object: 18
+bbox: 0,160,588,828
+item: 138
+
+object: 19
+bbox: 1428,16,812,952
+item: 138
+
+object: 20
+bbox: 2208,12,832,940
+item: 92
+
+object: 21
+bbox: 424,1208,916,1240
+item: 87
+
+object: 22
+bbox: 1368,1252,1016,1180
+item: 116
+
+object: 23
+bbox: 2300,1288,952,1156
+item: 116
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/109.jpg
+
+object: 24
+bbox: -12,392,624,1088
+item: 138
+
+object: 25
+bbox: 484,1792,1052,1472
+item: 116
+
+object: 26
+bbox: 1492,400,760,1112
+item: 92
+
+object: 27
+bbox: 700,344,824,1152
+item: 138
+
+object: 28
+bbox: 1444,1856,1000,1372
+item: 116
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/110.jpg
+
+object: 29
+bbox: 0,1792,1068,1472
+item: 96
+
+object: 30
+bbox: 1124,1812,1128,1460
+item: 94
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/112.jpg
+
+object: 31
+bbox: 260,312,824,1116
+item: 116
+
+object: 32
+bbox: 652,2032,804,1016
+item: 94
+
+object: 33
+bbox: -8,2044,656,1016
+item: 96
+
+object: 34
+bbox: 1860,372,612,1040
+item: 116
+
+object: 35
+bbox: 1072,364,808,1056
+item: 116
+
+object: 36
+bbox: 1444,2028,832,1068
+item: 94
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/114.jpg
+
+object: 37
+bbox: 1688,2188,772,1068
+item: 96
+
+object: 38
+bbox: 828,2200,868,1068
+item: 117
+
+object: 39
+bbox: 4,2220,840,1044
+item: 117
+
+object: 40
+bbox: 452,300,872,1236
+item: 87
+
+object: 42
+bbox: 1256,280,888,1212
+item: 87
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/115.jpg
+
+object: 43
+bbox: -8,912,608,800
+item: 99
+
+object: 44
+bbox: 592,880,676,836
+item: 99
+
+object: 45
+bbox: 1240,660,756,1048
+item: 87
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/152.jpg
+
+object: 46
+bbox: 12,836,1120,1572
+item: 88
+
+object: 47
+bbox: 1044,800,1072,1616
+item: 88
+
+object: 48
+bbox: 2108,776,1104,1608
+item: 88
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/153.jpg
+
+object: 49
+bbox: 200,644,884,1516
+item: 88
+
+object: 50
+bbox: 1096,792,908,1424
+item: 90
+
+object: 51
+bbox: 2024,752,948,1512
+item: 90
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/154.jpg
+
+object: 52
+bbox: 224,848,996,1400
+item: 90
+
+object: 53
+bbox: 1184,940,864,1320
+item: 91
+
+object: 54
+bbox: 2140,984,1068,1432
+item: 01
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/155.jpg
+
+object: 55
+bbox: 428,2180,820,1076
+item: 91
+
+object: 56
+bbox: 1216,2124,848,1004
+item: 66
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/156.jpg
+
+object: 57
+bbox: 1312,4,672,928
+item: 116
+
+object: 58
+bbox: 80,1452,760,984
+item: 94
+
+object: 59
+bbox: 596,0,720,908
+item: 116
+
+object: 60
+bbox: 848,1472,716,968
+item: 94
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/157.jpg
+
+object: 61
+bbox: 2572,380,516,772
+item: 92
+
+object: 62
+bbox: 572,1372,696,992
+item: 116
+
+object: 63
+bbox: 124,200,572,908
+item: 138
+
+object: 64
+bbox: 752,236,636,872
+item: 92
+
+object: 65
+bbox: 1380,388,584,740
+item: 92
+
+object: 66
+bbox: 1972,276,648,860
+item: 92
+
+object: 67
+bbox: 1272,1400,700,984
+item: 116
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/158.jpg
+
+object: 68
+bbox: 1752,12,500,672
+
+object: 69
+bbox: 468,0,616,692
+
+object: 70
+bbox: 1100,0,652,700
+
+object: 71
+bbox: 316,948,700,928
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/159.jpg
+
+object: 72
+bbox: 696,228,780,908
+item: 94
+
+object: 73
+bbox: 52,280,728,880
+item: 94
+
+object: 74
+bbox: 204,1576,556,752
+item: 91
+
+object: 75
+bbox: 696,1636,624,764
+item: 91
+
+object: 76
+bbox: 1268,1596,600,808
+item: 91
+
+object: 77
+bbox: 1860,1580,672,816
+item: 66
+
+object: 78
+bbox: 2536,1600,728,816
+item: 66
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/160.jpg
+
+object: 79
+bbox: 280,796,620,752
+item: 91
+
+object: 80
+bbox: 1940,748,652,684
+item: 66
+
+object: 81
+bbox: 1360,800,604,672
+item: 91
+
+object: 82
+bbox: 800,824,628,716
+item: 91
+
+object: 83
+bbox: 2624,696,604,720
+item: 66
+
+object: 84
+bbox: 1328,1700,520,744
+item: 48
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/43.jpg
+
+object: 85
+bbox: -28,4,584,876
+item: 95
+
+object: 86
+bbox: 548,4,616,884
+item: 95
+
+object: 87
+bbox: 1172,0,608,896
+item: 95
+
+object: 88
+bbox: 1808,8,632,896
+item: 95
+
+object: 89
+bbox: -4,1240,560,852
+item: 97
+
+object: 90
+bbox: 568,1256,564,836
+item: 97
+
+object: 91
+bbox: 1184,1276,560,800
+item: 97
+
+object: 92
+bbox: 1756,1276,496,756
+item: 97
+
+object: 93
+bbox: 56,2376,600,740
+item: 98
+
+object: 94
+bbox: 644,2380,572,720
+item: 98
+
+object: 95
+bbox: 1224,2228,496,624
+item: 98
+
+object: 96
+bbox: 1844,2384,552,744
+item: 98
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/44.jpg
+
+object: 97
+bbox: 1912,36,536,968
+item: 88
+
+object: 98
+bbox: 112,1336,504,772
+item: 97
+
+object: 99
+bbox: 624,1452,544,704
+item: 99
+
+object: 100
+bbox: 1760,1440,544,716
+item: 99
+
+object: 101
+bbox: 1200,1444,556,712
+item: 99
+
+object: 102
+bbox: 100,2444,560,688
+item: 98
+
+object: 103
+bbox: 1768,2456,516,624
+item: 117
+
+object: 104
+bbox: 1200,2432,536,684
+item: 98
+
+object: 105
+bbox: 672,2444,540,692
+item: 98
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/45.jpg
+
+object: 106
+bbox: 416,228,552,768
+item: 97
+
+object: 107
+bbox: 1012,248,460,748
+item: 97
+
+object: 108
+bbox: 1476,312,476,688
+item: 97
+
+object: 109
+bbox: 2076,380,376,640
+item: 99
+
+object: 110
+bbox: 72,1216,520,584
+item: 98
+
+object: 111
+bbox: 540,1236,492,576
+item: 98
+
+object: 112
+bbox: 1020,1212,428,496
+item: 98
+
+object: 113
+bbox: 1524,1248,412,588
+item: 98
+
+object: 114
+bbox: 1976,1272,428,552
+item: 98
+
+object: 115
+bbox: 152,2000,472,516
+item: 96
+
+object: 116
+bbox: 588,2004,456,520
+item: 96
+
+object: 117
+bbox: 1032,1932,404,516
+item: 96
+
+object: 118
+bbox: -8,2808,508,488
+item: 66
+
+object: 119
+bbox: 496,2776,480,516
+item: 66
+
+object: 120
+bbox: 996,2764,476,540
+item: 66
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/46.jpg
+
+object: 122
+bbox: 408,648,500,772
+item: 92
+
+object: 123
+bbox: 884,620,532,832
+item: 92
+
+object: 124
+bbox: 1408,620,492,840
+item: 92
+
+object: 125
+bbox: 1928,652,488,820
+item: 92
+
+object: 126
+bbox: 2596,632,480,844
+item: 90
+
+object: 127
+bbox: 1008,1668,516,672
+item: 94
+
+object: 128
+bbox: 1512,1604,452,640
+item: 94
+
+object: 129
+bbox: 2588,1620,448,704
+item: 87
+
+object: 130
+bbox: 2016,1668,492,660
+item: 94
+
+object: 131
+bbox: 592,1596,408,528
+item: 117
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/47.jpg
+
+object: 132
+bbox: 628,892,688,1096
+item: 92
+
+object: 133
+bbox: 856,2144,572,764
+item: 94
+
+object: 134
+bbox: 136,2252,656,872
+item: 94
+
+object: 135
+bbox: 1324,880,656,1124
+item: 92
+
+object: 136
+bbox: 1464,2296,652,856
+item: 94
+
+object: 137
+bbox: -16,872,656,1092
+item: 94
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/cereals/48.jpg
+
+object: 138
+bbox: -24,1164,896,1180
+item: 87
+
+object: 139
+bbox: 856,1196,788,1144
+item: 87
+
+object: 140
+bbox: 1712,1264,648,1044
+item: 87
+
+object: 141
+bbox: 1916,4,800,1052
+item: 90
+

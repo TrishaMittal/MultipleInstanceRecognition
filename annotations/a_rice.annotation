@@ -1,0 +1,846 @@
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/110.jpg
+
+object: 1
+bbox: 280,360,495,745
+item: 13
+
+object: 2
+bbox: 775,240,635,855
+item: 12
+
+object: 3
+bbox: 1415,235,670,860
+item: 12
+
+object: 4
+bbox: 2070,220,660,920
+item: 12
+
+object: 5
+bbox: 2725,405,535,700
+item: 6
+
+object: 6
+bbox: 1665,1515,635,930
+item: 17
+
+object: 7
+bbox: 970,1515,700,940
+item: 17
+
+object: 8
+bbox: 290,1480,675,970
+item: 17
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/111.jpg
+
+object: 9
+bbox: 35,550,815,1160
+item: 13
+
+object: 10
+bbox: 910,725,710,1000
+item: 13
+
+object: 11
+bbox: 1620,745,700,995
+item: 13
+
+object: 12
+bbox: 1125,2055,595,890
+item: 19
+
+object: 13
+bbox: 420,2155,725,1060
+item: 19
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/112.jpg
+
+object: 14
+bbox: -40,400,485,745
+item: 8
+
+object: 15
+bbox: 1580,440,545,750
+item: 6
+
+object: 16
+bbox: 1040,430,550,750
+item: 6
+
+object: 17
+bbox: 435,415,550,740
+item: 8
+
+object: 18
+bbox: 2100,455,600,755
+item: 6
+
+object: 19
+bbox: 2650,540,480,660
+item: 32
+
+object: 20
+bbox: 425,1670,525,780
+item: 13
+
+object: 21
+bbox: 1560,1670,595,790
+item: 12
+
+object: 22
+bbox: 2125,1670,605,790
+item: 12
+
+object: 23
+bbox: 945,1650,605,815
+item: 12
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/113.jpg
+
+object: 24
+bbox: 1340,220,655,965
+item: 22
+
+object: 25
+bbox: 2080,1480,665,965
+item: -1
+
+object: 26
+bbox: 1430,1485,645,945
+item: 22
+
+object: 27
+bbox: 770,1485,660,905
+item: 22
+
+object: 28
+bbox: 60,1490,695,930
+item: 22
+
+object: 29
+bbox: 2710,225,575,965
+item: 22
+
+object: 30
+bbox: 2030,225,670,970
+item: 22
+
+object: 31
+bbox: 2740,1495,565,920
+item: -1
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/114.jpg
+
+object: 32
+bbox: 485,280,710,965
+item: 13
+
+object: 33
+bbox: 1185,295,705,950
+item: 13
+
+object: 34
+bbox: 1905,235,705,1010
+item: 10
+
+object: 35
+bbox: 2595,260,660,980
+item: 10
+
+object: 36
+bbox: 80,1590,730,990
+item: 22
+
+object: 37
+bbox: 840,1585,695,960
+item: 22
+
+object: 38
+bbox: 1555,1590,680,920
+item: 22
+
+object: 39
+bbox: 2240,1595,710,900
+item: 22
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/115.jpg
+
+object: 40
+bbox: 490,15,715,995
+item: 10
+
+object: 41
+bbox: 1895,0,750,1015
+item: 10
+
+object: 42
+bbox: 1205,20,685,990
+item: 10
+
+object: 43
+bbox: 2620,25,650,970
+item: 10
+
+object: 44
+bbox: 870,1370,705,1060
+item: 22
+
+object: 45
+bbox: 205,1385,655,1020
+item: 22
+
+object: 46
+bbox: 1590,1380,655,940
+item: 9
+
+object: 47
+bbox: 2320,1385,790,1065
+item: 9
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/116.jpg
+
+object: 48
+bbox: 110,200,565,745
+item: -1
+
+object: 49
+bbox: 1920,150,670,800
+item: 11
+
+object: 50
+bbox: 695,140,620,815
+item: 11
+
+object: 51
+bbox: 2510,155,685,775
+item: 11
+
+object: 52
+bbox: 1315,145,630,805
+item: 11
+
+object: 53
+bbox: 2620,1525,680,930
+item: 10
+
+object: 54
+bbox: 1950,1535,770,895
+item: 10
+
+object: 55
+bbox: 1255,1515,735,945
+item: 10
+
+object: 56
+bbox: 580,1530,690,930
+item: 10
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/117.jpg
+
+object: 57
+bbox: 530,20,600,760
+item: 32
+
+object: 58
+bbox: 1135,15,650,800
+item: -1
+
+object: 59
+bbox: 1770,20,665,765
+item: -1
+
+object: 60
+bbox: 2410,10,750,795
+item: 11
+
+object: 61
+bbox: 340,1425,720,1030
+item: 6
+
+object: 62
+bbox: 1075,1450,715,1000
+item: 13
+
+object: 63
+bbox: 1780,1470,765,975
+item: 13
+
+object: 64
+bbox: 2515,1385,770,1070
+item: 0
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/118.jpg
+
+object: 65
+bbox: -10,135,515,660
+item: 32
+
+object: 66
+bbox: 1060,90,600,685
+item: -1
+
+object: 67
+bbox: 525,120,555,680
+item: -1
+
+object: 68
+bbox: 1665,20,640,770
+item: 11
+
+object: 69
+bbox: -15,1360,490,845
+item: 6
+
+object: 70
+bbox: 470,1380,610,835
+item: 13
+
+object: 71
+bbox: 1075,1380,635,830
+item: 13
+
+object: 72
+bbox: 1695,1320,695,885
+item: 10
+
+object: 73
+bbox: 115,2550,645,740
+item: -1
+
+object: 74
+bbox: 785,2535,645,830
+item: 22
+
+object: 75
+bbox: 1425,2525,665,820
+item: 22
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/119.jpg
+
+object: 77
+bbox: 445,1185,685,895
+item: 10
+
+object: 78
+bbox: 800,2380,665,915
+item: 22
+
+object: 79
+bbox: 165,2405,650,890
+item: 22
+
+object: 80
+bbox: 1105,1180,690,875
+item: 10
+
+object: 81
+bbox: 1735,1150,700,930
+item: 10
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/120.jpg
+
+object: 82
+bbox: 280,10,590,755
+item: 6
+
+object: 83
+bbox: 865,0,595,750
+item: 6
+
+object: 84
+bbox: 1455,5,630,715
+item: 6
+
+object: 85
+bbox: 885,1250,580,835
+item: 12
+
+object: 86
+bbox: 300,1275,565,820
+item: 12
+
+object: 87
+bbox: 1445,1245,640,860
+item: 12
+
+object: 88
+bbox: -30,2460,545,800
+item: 17
+
+object: 89
+bbox: 475,2455,655,820
+item: 17
+
+object: 90
+bbox: 1145,2390,595,880
+item: 17
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/121.jpg
+
+object: 91
+bbox: -20,145,630,775
+item: 12
+
+object: 92
+bbox: 1170,75,645,815
+item: 6
+
+object: 93
+bbox: 610,270,580,640
+item: 6
+
+object: 94
+bbox: 1790,70,650,775
+item: 13
+
+object: 95
+bbox: 1520,1225,655,905
+item: 22
+
+object: 96
+bbox: 1060,2415,640,895
+item: 22
+
+object: 97
+bbox: 1655,2385,675,880
+item: 22
+
+object: 98
+bbox: 395,2440,660,870
+item: 22
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/122.jpg
+
+object: 99
+bbox: 360,5,670,815
+item: 13
+
+object: 100
+bbox: 1025,0,640,790
+item: 13
+
+object: 101
+bbox: 1680,5,670,795
+item: 10
+
+object: 102
+bbox: 1360,1155,635,900
+item: 22
+
+object: 103
+bbox: 735,1145,620,920
+item: 22
+
+object: 104
+bbox: 50,1140,700,935
+item: 22
+
+object: 105
+bbox: 1975,1145,525,895
+item: 22
+
+object: 106
+bbox: 175,2345,650,900
+item: 22
+
+object: 107
+bbox: 1465,2310,610,905
+item: -1
+
+object: 109
+bbox: 835,2355,625,895
+item: -1
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/123.jpg
+
+object: 110
+bbox: 50,385,505,755
+item: 8
+
+object: 111
+bbox: 540,220,685,905
+item: 8
+
+object: 112
+bbox: 1200,195,670,930
+item: 8
+
+object: 113
+bbox: 1890,200,565,930
+item: 6
+
+object: 114
+bbox: -25,1710,600,1000
+item: 13
+
+object: 115
+bbox: 655,1715,630,910
+item: 13
+
+object: 116
+bbox: 1225,1705,655,945
+item: 13
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/124.jpg
+
+object: 118
+bbox: 325,220,615,830
+item: 8
+
+object: 119
+bbox: 960,250,610,800
+item: 8
+
+object: 120
+bbox: 1575,285,635,790
+item: 6
+
+object: 121
+bbox: 2155,270,640,790
+item: 6
+
+object: 122
+bbox: 2705,300,620,810
+item: 6
+
+object: 123
+bbox: 335,1620,590,865
+item: 13
+
+object: 124
+bbox: 965,1620,590,855
+item: 13
+
+object: 125
+bbox: 1560,1570,705,885
+item: 12
+
+object: 126
+bbox: 2195,1580,680,885
+item: 12
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/14.jpg
+
+object: 127
+bbox: 345,15,425,610
+item: 17
+
+object: 128
+bbox: 765,5,460,625
+item: 17
+
+object: 129
+bbox: 1280,5,435,670
+item: 11
+
+object: 130
+bbox: 1705,35,445,650
+item: 11
+
+object: 131
+bbox: 2140,80,360,600
+item: 1
+
+object: 132
+bbox: 2680,15,430,685
+item: 13
+
+object: 133
+bbox: 340,825,380,625
+item: 12
+
+object: 134
+bbox: 715,835,450,660
+item: 12
+
+object: 135
+bbox: 1155,870,460,640
+item: 12
+
+object: 136
+bbox: 1640,915,245,615
+item: 21
+
+object: 137
+bbox: 1870,945,240,580
+item: 21
+
+object: 138
+bbox: 2125,945,245,615
+item: 21
+
+object: 139
+bbox: 2350,955,270,605
+item: 21
+
+object: 140
+bbox: 280,1660,450,610
+item: 22
+
+object: 141
+bbox: 740,1690,455,605
+item: 22
+
+object: 142
+bbox: 1210,1700,425,605
+item: 22
+
+object: 143
+bbox: 1665,1735,390,560
+item: 22
+
+object: 144
+bbox: 2065,1660,360,590
+item: 22
+
+object: 145
+bbox: 2450,1660,360,575
+item: 22
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/15.jpg
+
+object: 146
+bbox: 595,150,475,730
+item: 17
+
+object: 147
+bbox: 165,195,440,650
+item: 17
+
+object: 148
+bbox: 1520,280,400,650
+item: 11
+
+object: 149
+bbox: 1900,355,355,600
+item: 11
+
+object: 150
+bbox: 1070,250,430,670
+item: 11
+
+object: 151
+bbox: 175,1055,390,595
+item: 12
+
+object: 152
+bbox: 580,1090,415,625
+item: 12
+
+object: 153
+bbox: 1005,1100,435,590
+item: 12
+
+object: 154
+bbox: 1440,1170,220,570
+item: 21
+
+object: 155
+bbox: 1680,1175,220,580
+item: 21
+
+object: 156
+bbox: 1900,1185,230,570
+item: 21
+
+object: 157
+bbox: 2135,1220,230,535
+item: 21
+
+object: 158
+bbox: 150,1875,435,590
+item: 22
+
+object: 159
+bbox: 590,1910,425,565
+item: 22
+
+object: 160
+bbox: 1025,1940,410,525
+item: 22
+
+object: 161
+bbox: 1430,1935,385,530
+item: 22
+
+object: 162
+bbox: 1830,1850,325,580
+item: 22
+
+object: 163
+bbox: 40,2710,330,455
+item: 7
+
+object: 164
+bbox: 410,2625,250,365
+item: 7
+
+object: 165
+bbox: 685,2570,265,430
+item: 7
+
+object: 166
+bbox: 950,2685,300,450
+item: 7
+
+object: 167
+bbox: 1255,2585,280,425
+item: 7
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/267.jpg
+
+object: 168
+bbox: 90,80,645,1000
+item: 13
+
+object: 169
+bbox: 1555,150,670,965
+item: 8
+
+object: 170
+bbox: 2240,150,730,945
+item: 8
+
+object: 171
+bbox: 895,105,670,975
+item: 8
+
+object: 172
+bbox: 100,1390,675,985
+item: 17
+
+object: 173
+bbox: 815,1420,675,990
+item: 19
+
+object: 174
+bbox: 1530,1435,650,1000
+item: 19
+
+object: 175
+bbox: 2210,1450,685,980
+item: 19
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/268.jpg
+
+object: 176
+bbox: 635,165,705,1000
+item: 13
+
+object: 177
+bbox: 1315,175,695,970
+item: 13
+
+object: 178
+bbox: -10,175,640,945
+item: 13
+
+object: 179
+bbox: 2025,185,735,965
+item: 13
+
+object: 180
+bbox: 15,1470,650,970
+item: 22
+
+object: 181
+bbox: 700,1485,665,965
+item: 22
+
+object: 182
+bbox: 1370,1495,660,975
+item: 17
+
+object: 183
+bbox: 2050,1500,775,935
+item: 17
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/269.jpg
+
+object: 184
+bbox: 430,5,680,855
+item: 8
+
+object: 185
+bbox: 1130,25,620,890
+item: 8
+
+object: 186
+bbox: 1770,10,635,905
+item: 8
+
+object: 187
+bbox: 390,1240,690,930
+item: 19
+
+object: 188
+bbox: 1065,1230,620,905
+item: 19
+
+object: 189
+bbox: 1730,1240,640,905
+item: 19
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/270.jpg
+
+object: 190
+bbox: 225,1110,750,945
+item: 22
+
+object: 191
+bbox: 855,1035,815,1025
+item: 17
+
+object: 192
+bbox: 1615,990,830,1060
+item: 17
+
+########## NEW FILE ##########
+file: /home/laasya/OpenCV_Practice/shelves/rice/271.jpg
+
+object: 193
+bbox: 375,65,580,875
+item: 4
+
+object: 194
+bbox: 980,130,620,945
+item: 4
+
+object: 195
+bbox: 1675,145,475,960
+item: 4
+
+object: 196
+bbox: 865,1615,525,705
+item: 2
+
+object: 197
+bbox: 2005,1645,430,675
+item: 2
+
+object: 198
+bbox: 1455,1655,480,685
+item: 2
+
